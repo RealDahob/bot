@@ -9,4 +9,4 @@ async def on_message(message):
         await message.channel.send("Hi") # If the user says !hello we will send back hi
 
 
-client.run('ODE0MDU5NzA4ODY4NDYwNTY1.YDYWLw.RZvkViPu-VmHsrPLuUnn-TVjHTI')
+client.run('ODE0MDU5NzA4ODY4NDYwNTY1.YDYWLw.ojrB3IQ3dm4CTkCkbwYE7dx6kC8')
